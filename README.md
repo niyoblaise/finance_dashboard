@@ -40,7 +40,8 @@ Installation
 bash
 
 git clone https://github.com/niyoblaise/finance_dashboard.git
-cd finance_dashboard
+
+###cd finance_dashboard
 
     Install dependencies
 
@@ -53,27 +54,6 @@ flutter pub get
 bash
 
 flutter run
-
-🏗️ Project Structure
-text
-
-finance_dashboard/
-├── lib/
-│   ├── main.dart                 # App entry point
-│   ├── screens/
-│   │   └── dashboard_screen.dart # Main dashboard UI
-│   ├── widgets/
-│   │   ├── balance_card.dart     # Balance overview card
-│   │   ├── wallet_section.dart   # Wallet management
-│   │   ├── saving_plan_section.dart # Savings goals
-│   │   ├── transaction_history.dart # Transaction list
-│   │   ├── statistics_section.dart # Charts & stats
-│   │   └── payments_section.dart # Payments tracking
-│   └── models/
-│       └── transaction.dart      # Data models
-├── assets/
-│   └── fonts/                    # Poppins font family
-└── pubspec.yaml                  # Dependencies & assets
 
 🛠️ Built With
 
