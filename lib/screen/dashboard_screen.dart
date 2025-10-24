@@ -43,7 +43,7 @@ class DashboardScreen extends StatelessWidget {
               const StatisticsSection(),
               const SizedBox(height: 20),
               
-              // Payments
+             
               const PaymentsSection(),
             ],
           ),

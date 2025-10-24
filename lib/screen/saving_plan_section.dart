@@ -130,7 +130,7 @@ class SavingPlanSection extends StatelessWidget {
           ),
           const SizedBox(height: 4),
           Text(
-            'RWF${current.toStringAsFixed(0)}k / RWF${target.toStringAsFixed(0)}k',
+            'RWF ${current.toStringAsFixed(0)}k / RWF ${target.toStringAsFixed(0)}k',
             style: TextStyle(
               fontSize: 10,
               color: Colors.grey[600],
