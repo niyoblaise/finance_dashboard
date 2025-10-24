@@ -128,7 +128,7 @@ class PaymentsSection extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.end,
             children: [
               Text(
-                '\$${payment.amount.toStringAsFixed(2)}',
+                'RWF ${payment.amount.toStringAsFixed(2)}',
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                 ),

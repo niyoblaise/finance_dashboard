@@ -19,11 +19,11 @@ class StatisticsSection extends StatelessWidget {
         Row(
           children: [
             Expanded(
-              child: _buildStatCard('Income', '\$45,453.32', Colors.green),
+              child: _buildStatCard('Income', 'RWF 45,453.32', Colors.green),
             ),
             const SizedBox(width: 12),
             Expanded(
-              child: _buildStatCard('Spending', '\$12,345.67', Colors.red),
+              child: _buildStatCard('Spending', 'RWF 12,345.67', Colors.red),
             ),
           ],
         ),

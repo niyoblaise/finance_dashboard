@@ -106,7 +106,7 @@ class TransactionHistorySection extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.end,
             children: [
               Text(
-                '-\$${transaction.amount.toStringAsFixed(2)}',
+                '- RWF ${transaction.amount.toStringAsFixed(2)}',
                 style: const TextStyle(
                   color: Colors.red,
                   fontWeight: FontWeight.w500,
