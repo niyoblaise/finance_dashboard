@@ -53,7 +53,8 @@ Material Design – Google's modern design system
 Poppins Font – Clean and geometric typeface
 
 ## 📸 Screenshot
-<img width="1080" height="1920" alt="Screenshot_1761259610" src="https://github.com/user-attachments/assets/e71e9aa9-edce-4484-aced-a735624da31d" />
+<img width="1080" height="1920" alt="Screenshot_1761291587" src="https://github.com/user-attachments/assets/277a5727-f91e-4955-85a3-1e63f338ef27" />
+
 
 ## 👨‍💻 Author
 
